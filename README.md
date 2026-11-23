@@ -2,7 +2,7 @@
 
 The TypeScript/Express API for **EduFlow**, rebuilt in 2026.
 
-The full project (web app + this API) lives in **[tazim5032/edu-flow-client](https://github.com/tazim5032/edu-flow-client)**, which is the recommended place to run it from.
+The full project (web app + this API) lives in **[tazim5032/eduflow](https://github.com/tazim5032/eduflow)**, which is the recommended place to run it from.
 
 **Live demo:** https://tazim-eduflow.netlify.app
 
